@@ -1,4 +1,4 @@
-import Foundation
+import Foundation 
 
 struct MoviesDataLoader {
     var resource: String

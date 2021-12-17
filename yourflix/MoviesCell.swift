@@ -1,4 +1,4 @@
-import UIKit
+import UIKit 
 
 class MoviesCell: UICollectionViewCell {
     @IBOutlet weak var imageView: UIImageView!

@@ -1,4 +1,4 @@
-import Foundation
+import Foundation 
 
 struct TVDataLoader {
     var resource: String
